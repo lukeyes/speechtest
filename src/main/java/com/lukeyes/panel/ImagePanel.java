@@ -1,4 +1,4 @@
-package com.lukeyes;
+package com.lukeyes.panel;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
