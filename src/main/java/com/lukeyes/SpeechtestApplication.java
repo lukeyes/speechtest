@@ -1,6 +1,6 @@
 package com.lukeyes;
 
-import org.springframework.boot.SpringApplication;
+import com.lukeyes.panel.AppPrincipalFrame;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.context.ConfigurableApplicationContext;

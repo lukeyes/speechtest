@@ -1,11 +1,8 @@
-package com.lukeyes;
+package com.lukeyes.util;
 
 
-import java.beans.PropertyVetoException;
 import java.io.File;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.util.Locale;
+
 import com.sun.speech.freetts.VoiceManager;
 
 /**
@@ -71,15 +68,17 @@ public class SpeechUtil {
 
         /* Synthesize speech.
          */
+        FaceUtil.getInstance().setTalking(true);
         helloVoice.speak(speakText);
-
+        FaceUtil.getInstance().setTalking(false);
+/*
         String command = String.format("espeak -ven+f3 \"%s\"", speakText);
         Runtime rt = Runtime.getRuntime();
         try {
             Process pr = rt.exec(command);
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }*/
 
         /* Clean up and leave.
          */

@@ -1,4 +1,4 @@
-package com.lukeyes;
+package com.lukeyes.domain;
 
 
 public class SpeechCommand {

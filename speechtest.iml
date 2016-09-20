@@ -15,26 +15,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/org.mobicents.external.freetts/freetts/1.0/83f1c037db6e66e3da3be140202e8606a0756797/freetts-1.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/net.sf.sociaal/freetts/1.2.2/8b924f691e9d37ae7c8cf62cd55b4ba84b8ca9a9/freetts-1.2.2.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/net.sf.sociaal/freetts/1.2.2/e564ff010d3ad07ccc8c097fa01c929e954e547f/freetts-1.2.2-sources.jar!/"/>
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.4.0.RELEASE/9eb9be27958cc17de9673a6fbbdaf16fb65a7fdc/spring-boot-starter-1.4.0.RELEASE.jar!/"/>
         </CLASSES>
         <JAVADOC/>
@@ -74,42 +54,6 @@
         <SOURCES>
           <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger-ui/2.4.0/df631df1d70910a8b8e5a70db9a3372128a6a43f/springfox-swagger-ui-2.4.0-sources.jar!/"/>
         </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/org.mobicents.external.freetts/cmu_us_kal/1.0/18c8554b5543766b9af72fab951a0d0a76f564da/cmu_us_kal-1.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/org.mobicents.external.freetts/cmu_time_awb/1.0/5e05a98cc3b1e055a9d8d8faa5f2533ff3e44476/cmu_time_awb-1.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/org.mobicents.external.freetts/en_us/1.0/836bd8c02002621da251f75c64f2fac95d1bfd82/en_us-1.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/org.mobicents.external.freetts/cmulex/1.0/e077127f20f318a5d8d348f56d8bc2ad59879091/cmulex-1.0.jar!/"/>
-        </CLASSES>
-        <JAVADOC/>
-        <SOURCES/>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -528,6 +472,87 @@
         <SOURCES>
           <root url="jar:///home/luke/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/15a62dbee75aadf62b7d35640533262d764b29d3/logback-core-1.1.7-sources.jar!/"/>
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/cmu_time_awb.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/cmutimelex.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/freetts-jsapi10.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/cmulex.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/mbrola.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/cmudict04.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/en_us.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/freetts.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/freetts-1.2/lib/cmu_us_kal.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">

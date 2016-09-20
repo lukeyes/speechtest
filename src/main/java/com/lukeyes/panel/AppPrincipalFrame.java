@@ -1,13 +1,8 @@
-package com.lukeyes;
+package com.lukeyes.panel;
 
 import org.springframework.stereotype.Component;
 
-import javax.imageio.ImageIO;
 import javax.swing.*;
-import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
 
 @Component
 public class AppPrincipalFrame extends JFrame {
